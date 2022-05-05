@@ -1,4 +1,5 @@
-
+# Una funcion que capture los valores enunciados y de acuerdo a la periosidad en meses, agregue o descuente intereses, si el tiempo es menor a 2, castiga al cliente con 2% de descuento, si es mayor
+# de da beneficios de 3%
 usuario= input('Digite el nombre de paciente    ')
 capital= int(input('Digite el el valor del CDT : '))
 tiempo= int(input('Digite la cantidad de meses : '))
